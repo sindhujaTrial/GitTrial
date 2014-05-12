@@ -2,3 +2,4 @@ Trial doc 2
 Repo 1
 Folder 1
 Line to be unstaged
+yes
