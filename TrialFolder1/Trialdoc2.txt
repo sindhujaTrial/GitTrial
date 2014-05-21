@@ -3,4 +3,3 @@ Repo 1
 Folder 1
 Line to be unstaged
 yes
-Branch1
