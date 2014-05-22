@@ -2,4 +2,3 @@ Trial doc 1
 Repository 1
 Branch 1
 This line is unstaged.
-This line is not unstaged.
